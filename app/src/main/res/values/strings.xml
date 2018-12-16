@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Math Figures</string>
+    <string-array name="figure_list">
+        <item>Треугольник</item>
+        <item>Прямоугольник</item>
+        <item>Окружность</item>
+    </string-array>
+    <string name="next">Далее</string>
+    <string name="a_side">Введите длину стороны a</string>
+    <string name="b_side">Введите длину стороны b</string>
+    <string name="c_side">Введите длину стороны c</string>
+    <string name="d_side">Введите длину стороны d</string>
+    <string name="rad">Введите радиус</string>
+    <string name="triangle_not_exist">Такой треугольник не существует!</string>
+    <string name="a_display">Сторона a = %1$d</string>
+    <string name="b_display">Сторона b = %1$d</string>
+    <string name="c_display">Сторона c = %1$d</string>
+    <string name="d_display">Сторона d = %1$d</string>
+    <string name="r_display">Радиус r = %1$d</string>
+    <string name="square">Рассчитать площадь</string>
+    <string name="length">Рассчитать длину окружности</string>
+    <string name="perimeter">Рассчитать периметр</string>
+    <string name="enter_parameters">Введите задающие параметры!</string>
+    <string name="enter_sides">Ввести стороны</string>
+    <string name="enter_coordinates">Ввести координаты</string>
+    <string name="x1">Введите x1</string>
+    <string name="y1">Введите y1</string>
+    <string name="x2">Введите x2</string>
+    <string name="y2">Введите y2</string>
+
+</resources>
